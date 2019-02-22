@@ -1,3 +1,1 @@
-server:
-  port: 8762
-foo: github version 1
+foo: github version 2.0
